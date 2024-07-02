@@ -51,7 +51,7 @@ Here are some of my popular repositories:
 - 9	Developing Web APIs, Windows Azure and Web Services using ASP.NET Core
 - 10	Advanced Web Application Development with Angular
   
-**2017: Gouripur Govt College** - Basolor of Social Science(BSS)
+**2017: Gouripur Govt College** - Bachelor of Social Science(BSS)
 
 **2013: Gouripur Govt College** - Higher Secondary Certificate (HSC)
 
