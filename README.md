@@ -63,10 +63,10 @@ Here are some of my popular repositories:
 
 ## Get in Touch
 
-- [📧 Email](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
-- [🌐 Website](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
-- [💼 LinkedIn](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
-- [🐦 Twitter](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
+- [📧 Email](rukon2280@gmail.com)
+- [🌐 Website]()
+- [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
+- [🐦 Twitter]()
 
 ## Footer
 
