@@ -20,20 +20,21 @@ I'm a Software Developer with a passion for problem-solving and innovation. With
 
 ## Skills
 
-- **Languages**: JavaScript, C#, Java
-- **Frameworks**: Angular, ASP.NET
-- **Databases**: SQL Server, MongoDB
-- **Tools**: Git, Docker, Jenkins
+- **Languages**: JavaScript, C#,
+- **Frameworks**: Angular, .NET Core
+- **Databases**: SQL Server, MySQL
+- **Tools**: Visual Studio-2022,Git, 
 
 ## Projects
 
 Here are some of my popular repositories:
 
-- [MVC-Crud](https://github.com/rukonuddinp/MVC-Crud): A CRUD application built with JavaScript.
-- [AngularCrud](https://github.com/rukonuddinp/AngularCrud): A CRUD application built with Angular and C#.
-- [AngularJSCrud](https://github.com/rukonuddinp/AngularJSCrud): Another CRUD application built with AngularJS.
-- [ASP.Net_Crud](https://github.com/rukonuddinp/ASP.Net_Crud): A CRUD application built with ASP.NET and JavaScript.
-- [Expense_Tracker](https://github.com/rukonuddinp/Expense_Tracker): An expense tracking application built with C#.
+- [Car_Parking](Completed Project): This project built with C#, Dot net core-6, JavaScript, Jquery, Database MSSQL.
+- [Hospital Management](Completed Project): This project built with C#, Dot net core-6, JavaScript, Jquery, Database MSSQL.
+- [SQMS](Completed Project): This project built with C#, Dot net core-8, JavaScript, Jquery, Database MySQL.
+- [ShortList_Project_1](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft): Personal Short Project.
+- [ShortList_Project_2](https://github.com/rukonuddinp/ShortListOfHospitalManage): Personal Short Project.
+- [Expense_Tracker](https://github.com/rukonuddinp/Expense_Tracker): Personal Short Project.
 
 ## Contribution Graph
 
