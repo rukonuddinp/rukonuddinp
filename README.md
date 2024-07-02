@@ -58,7 +58,7 @@ Here are some of my popular repositories:
 **2013: Dr. M. R Karim High School** - Secondary School Certificate (SSC)
 
 ## Experience
-**2022 - Present: NAAS Solution Ltd** 
+**2022 -  NAAS Solution Ltd** (Continue)
 - Junior Fullstack Developer
 
 
