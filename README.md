@@ -63,7 +63,7 @@ Here are some of my popular repositories:
 
 ## Get in Touch
 
-- [📧 Email](rukon2280@gmail.com)
+- [📧 Email](mailto:rukon2280@gmail.com)
 - [🌐 Website]()
 - [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
 - [🐦 Twitter]()
