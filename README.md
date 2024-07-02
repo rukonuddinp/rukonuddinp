@@ -11,8 +11,7 @@ I'm a Software Developer with a passion for problem-solving and innovation. With
 
 🔭 I’m currently working on enhancing my skills in software development.  
 🌱 I’m currently learning advanced JavaScript frameworks and improving my backend skills.  
-👯 I’m looking to collaborate on open-source projects.  
-🤔 I’m looking for help with mastering DevOps practices.  
+👯 I’m looking to collaborate on open-source projects.   
 💬 Ask me about anything related to full-stack development.  
 
 ## Skills
@@ -66,6 +65,7 @@ Here are some of my popular repositories:
 - [🌐 Website]()
 - [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
 - [🐦 Twitter]()
+- Contact: 01952043521, 01301838864
 
 
 © 2024 Rukon Uddin
