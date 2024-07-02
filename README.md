@@ -1,8 +1,7 @@
 
 
 
-# Hi, I'm Rukon Uddin,
-## [Contact: 01952043521, 01301838864]()
+# Hi, I'm Rukon Uddin, **[Contact: 01952043521, 01301838864]()**
 
 I'm a Software Developer with a passion for problem-solving and innovation. With 2 years of job experience.
 
