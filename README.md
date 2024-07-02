@@ -68,9 +68,6 @@ Here are some of my popular repositories:
 - [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
 - [🐦 Twitter]()
 
-## Footer
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/rukonuddinp) or check out my other projects on [GitHub](https://github.com/rukonuddinp).
 
 © 2024 Rukon Uddin
 
