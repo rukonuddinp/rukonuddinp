@@ -1,7 +1,7 @@
 
 
 
-# Hi there 👋, I'm Rukon Uddin
+# Hi, I'm Rukon Uddin
 
 I'm a Software Developer with a passion for problem-solving and innovation. With 2 years of job experience.
 
