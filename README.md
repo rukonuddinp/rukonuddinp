@@ -66,7 +66,16 @@ Here are some of my popular repositories:
 - [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
 - [🐦 Twitter]()
 - Contact: 01952043521, 01301838864
+  
+## Reference (s):
 
+- Name : Syed Zahidul Hassan
+- Organization : IsDB
+- Designation : Consultant
+- Address : Show & Tell Consulting Ltd IsDB-BISEW IT Scholarship Programme
+- Phone (Res.) : 01535110014
+- Primary Email : jewelmir81@gmail.com
+- Relation : Academic
 
 © 2024 Rukon Uddin
 
