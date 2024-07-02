@@ -14,8 +14,6 @@ I'm a Software Developer with a passion for problem-solving and innovation. With
 👯 I’m looking to collaborate on open-source projects.  
 🤔 I’m looking for help with mastering DevOps practices.  
 💬 Ask me about anything related to full-stack development.  
-📫 How to reach me: [rukon2280@gmail.com](mailto:rukon2280@gmail.com)   
-⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## Skills
 
