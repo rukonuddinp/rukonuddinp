@@ -36,18 +36,20 @@ Here are some of my popular repositories:
 - [Expense_Tracker](https://github.com/rukonuddinp/Expense_Tracker): Personal Short Project.
   
 
-  ## Education
-  **2022: Institute of IsDB** -Diplome
-1	Programming with C# 7 and .Net 4.6.8
-2	Programming in HTML5 with JavaScript & CSS3
-3	Introduction to XML, ADO.NET & Reporting
-4	Developing ASP.NET MVC  Web Applications
-5	Entity Framework 6 Code First using ASP.NET MVC 
-6	Developing ASP.NET Core Web Applications
-7	Entity Framework Core Code First using ASP.NET Core
-8	Developing Web APIs, Windows Azure and Web Services using ASP.NET MVC
-9	Developing Web APIs, Windows Azure and Web Services using ASP.NET Core
-10	Advanced Web Application Development with Angular
+## Education
+
+**2022: Institute of IsDB** -Diplome
+
+- 1	Programming with C# 7 and .Net 4.6.8
+- 2	Programming in HTML5 with JavaScript & CSS3
+- 3	Introduction to XML, ADO.NET & Reporting
+- 4	Developing ASP.NET MVC  Web Applications
+- 5	Entity Framework 6 Code First using ASP.NET MVC 
+- 6	Developing ASP.NET Core Web Applications
+- 7	Entity Framework Core Code First using ASP.NET Core
+- 8	Developing Web APIs, Windows Azure and Web Services using ASP.NET MVC
+- 9	Developing Web APIs, Windows Azure and Web Services using ASP.NET Core
+- 10	Advanced Web Application Development with Angular
   
 **2017: Gouripur Govt College** - Basolor of Social Science(BSS)
 
