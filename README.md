@@ -1,7 +1,8 @@
 
 
 
-# Hi, I'm Rukon Uddin
+# Hi, I'm Rukon Uddin,
+## [Contact: 01952043521, 01301838864]()
 
 I'm a Software Developer with a passion for problem-solving and innovation. With 2 years of job experience.
 
@@ -65,7 +66,6 @@ Here are some of my popular repositories:
 - [🌐 Website]()
 - [💼 LinkedIn](https://www.linkedin.com/in/rukon-uddin-99830623b/)
 - [🐦 Twitter]()
-- Contact: 01952043521, 01301838864
   
 ## Reference (s):
 
