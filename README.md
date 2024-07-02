@@ -61,9 +61,12 @@ Here are some of my popular repositories:
 - 2022 - Present: NAAS Solution Ltd - Junior Fullstack Developer
 
 
-## Contribution Graph
+## Get in Touch
 
-![Contribution Graph](https://github-contribution-graph.appspot.com/?username=rukonuddinp&bg_color=ffffff&color=000000&line=0000ff&point=0000ff&hide_border=true)
+- [📧 Email](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
+- [🌐 Website](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
+- [💼 LinkedIn](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
+- [🐦 Twitter](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft)
 
 ## Footer
 
