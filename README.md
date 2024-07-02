@@ -14,14 +14,13 @@ I'm a Software Developer with a passion for problem-solving and innovation. With
 👯 I’m looking to collaborate on open-source projects.  
 🤔 I’m looking for help with mastering DevOps practices.  
 💬 Ask me about anything related to full-stack development.  
-📫 How to reach me: [rukonuddinp@gmail.com](mailto:rukonuddinp@gmail.com)  
-😄 Pronouns: He/Him  
+📫 How to reach me: [rukon2280@gmail.com](mailto:rukon2280@gmail.com)   
 ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## Skills
 
 - **Languages**: JavaScript, C#,
-- **Frameworks**: Angular, .NET Core
+- **Frameworks**: Angular, EntityFramework Core ASP.NET MVC , 
 - **Databases**: SQL Server, MySQL
 - **Tools**: Visual Studio-2022,Git, 
 
@@ -35,6 +34,30 @@ Here are some of my popular repositories:
 - [ShortList_Project_1](https://github.com/rukonuddinp/TechnicalTaskOfMalihaSoft): Personal Short Project.
 - [ShortList_Project_2](https://github.com/rukonuddinp/ShortListOfHospitalManage): Personal Short Project.
 - [Expense_Tracker](https://github.com/rukonuddinp/Expense_Tracker): Personal Short Project.
+  
+
+  ## Education
+  **2022: Institute of IsDB** -Diplome
+1	Programming with C# 7 and .Net 4.6.8
+2	Programming in HTML5 with JavaScript & CSS3
+3	Introduction to XML, ADO.NET & Reporting
+4	Developing ASP.NET MVC  Web Applications
+5	Entity Framework 6 Code First using ASP.NET MVC 
+6	Developing ASP.NET Core Web Applications
+7	Entity Framework Core Code First using ASP.NET Core
+8	Developing Web APIs, Windows Azure and Web Services using ASP.NET MVC
+9	Developing Web APIs, Windows Azure and Web Services using ASP.NET Core
+10	Advanced Web Application Development with Angular
+  
+**2017: Gouripur Govt College** - Basolor of Social Science(BSS)
+
+**2013: Gouripur Govt College** - Higher Secondary Certificate (HSC)
+
+**2013: Dr. M. R Karim High School** - Secondary School Certificate (SSC)
+
+## Experience
+2022 - Present: NAAS Solution Ltd - Junior Fullstack Developer
+
 
 ## Contribution Graph
 
